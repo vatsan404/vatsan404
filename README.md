@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Srivatsan V
+**Cybersecurity Master's Student | Red Team Enthusiast**
 
-<!--
-**vatsan404/vatsan404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Contribution Graph](https://github-readme-stats.vercel.app/api?username=vatsan404&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 🛡️ Cybersecurity Focus
+- Active Directory exploitation (PTH, Kerberos attacks)
+- Credential harvesting & privilege escalation  
+- Red team labs (Hyper-V, Impacket, Mimikatz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+PowerShell - Impacket - BloodHound - Mimikatz - CrackMapExec
+Kali Linux - Burp Suite - Wireshark - Nmap
+
+
+## 📌 Featured Repos Coming Soon
+- AD Privilege Escalation Lab
+- CTF Writeups
+- Custom Pentest Scripts
