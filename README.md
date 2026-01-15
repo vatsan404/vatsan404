@@ -1,40 +1,46 @@
 <div align="center">
 
-# 🔴 Srivatsan V | Red Team Operator in Training
-**M.S. Cybersecurity | Active Directory Exploitation Specialist**
+# 🔴🛡️☁️ Srivatsan V | Full-Stack Cybersecurity Engineer
+**M.S. Cybersecurity | Red/Blue/Purple Team | Cloud Security**
 
-[![vatsan404's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatsan404&show_icons=true&theme=dark&hide_border=true)](https://github.com/vatsan404)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsan404&layout=compact&theme=dark&hide_border=true)](https://github.com/vatsan404)
+[![vatsan404's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatsan404&show_icons=true&theme=dracula&hide_border=true)](https://github.com/vatsan404)
 
 </div>
 
-## 🚀 Active Directory Attack Surface
-DCOM/RPC Enumeration → BloodHound Ingest
-Kerberos TGT Forgery → Rubeus AS-REP Roast
-NTLM Relay → ntlmrelayx Responder
-Pass-the-Hash → Mimikatz sekurlsa::pth
-Golden/Silver Tickets → getST.py Impacket
+## 🔴 RED TEAM | Attack Surface Mapping
+Active Directory ──────────────➤ AWS/Azure
+├── Kerberos Golden Ticket ├── IAM Enumeration (PACU)
+├── PTH/Overpass-the-Hash ├── S3 Bucket Jacking
+├── DCSync Rights Abuse └── EC2 Instance Metadata
+└── BloodHound Path Discovery
 
 
-## 🛠️ Red Team Toolkit
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391D7?style=flat&logo=PowerShell&logoColor=white)
-![Impacket](https://img.shields.io/badge/-Impacket-orange?style=flat&logo=python&logoColor=white) 
-![Mimikatz](https://img.shields.io/badge/-Mimikatz-red?style=flat&logo=c&logoColor=white)
-![BloodHound](https://img.shields.io/badge/-BloodHound-blue?style=flat&logo=neo4j&logoColor=white)
-![CrackMapExec](https://img.shields.io/badge/-CME-green?style=flat&logo=linux&logoColor=white)
+## 🛡️ BLUE TEAM | Detection Engineering
+SIEM ───────────────➤ EDR ──────────────➤ Threat Hunting
+├── Splunk/Sentinel Queries ├── Sigma Rules ├── YARA Signatures
+├── MITRE ATT&CK Mapping ├── Velociraptor └── GRR Hunts
+└── SOAR Playbooks └── Osquery Packs └── KQL Queries
 
-## 📈 Lab Progression
-> **Phase 1**: Local PrivEsc → **Phase 2**: AD Enumeration → **Phase 3**: Lateral Movement
-vatsan404/AD-Red-Team-Lab ──────➤ 50% Complete
-├── [x] Initial Access (PS Remoting)
-├── [x] Credential Access (Mimikatz)
-├── [ ] Lateral Movement (PTH)
-└── [ ] Domain Persistence (Skeleton Key)
+
+## ☁️ CLOUD SECURITY | Multi-Cloud Hardening
+AWS IAM Least Privilege ─── Azure AD Conditional Access ─── GCP IAM
+├── ScoutSuite Audits ├── PIM Tiering ├── Forseti
+├── Prowler Checks ├── Defender for Cloud └── GKE PSPs
+└── CloudTrail Anomaly Hunt └── Sentinel ML Workbooks └── Chronicle
+
+
+## 🛠️ Technology Stack
+![Red Team](https://img.shields.io/badge/RedTeam-Mimikatz%20Impacket-Blue?style=flat&logo=offensive-security&logoColor=white)
+![Blue Team](https://img.shields.io/badge/BlueTeam-Splunk%20Sigma-Red?style=flat&logo=splunk&logoColor=white) 
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20Azure%20GCP-orange?style=flat&logo=amazon-aws&logoColor=white)
+![DFIR](https://img.shields.io/badge/DFIR-Volatility%20Autopsy-purple?style=flat&logo=digitalocean&logoColor=white)
+
+## 📊 Attack-Defend Labs (Purple Team)
+Phase 1 [✅] AD Kill Chain + Detection Rules
+Phase 2 [⬜] Cloud IAM Abuse + CSPM Alerts
+Phase 3 [⬜] Ransomware Simulation + IR Playbook
+
 
 <div align="center">
-
-**🔥 Currently Hunting**: Pass-the-Hash chains in multi-forest AD environments
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vatsan404&theme=dark)](https://github.com/vatsan404)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsan404&theme=dracula" alt="Streak"/>
 </div>
