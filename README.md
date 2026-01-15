@@ -59,7 +59,8 @@ BLUE TEAM LEARNING (📚 Active):
 <br>
 <i>Full-Spectrum Cybersecurity Engineer | Attack | Defend | Hunt | Respond</i>
 </div>
-div align="center">
+
+<div align="center">
 
 
 
