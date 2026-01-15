@@ -62,10 +62,9 @@ BLUE TEAM LEARNING (📚 Active):
 
 <div align="center">
 
-**Active Lab:** Multi-forest AD + detection rules
 
 ![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=vatsan404&theme=dracula&hide_border=true)
 
-*Red Team → Purple Team Engineer*
+
 
 </div>
