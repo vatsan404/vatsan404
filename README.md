@@ -1,12 +1,12 @@
 <div align="center">
 
 # 🔴🛡️☁️ Srivatsan V  
-**M.S. Cybersecurity | Red Blue Purple Team | Cloud Security Engineer**
+**Offensive Operations | Defensive Analytics | Cloud Security**
 
 
 </div>
 
-## 🔴 RED TEAM - Attack Operations
+## 🔴 OFFENSIVE SECURITY - Attack Operations
 Active Directory Cloud IAM Exploitation
 ├── Kerberos Golden Ticket ├── AWS IAM Role Assumption
 ├── Pass-the-Hash Attacks ├── Azure AD PIM Abuse
@@ -22,7 +22,7 @@ AWS Security Azure Security Google Cloud Security
 └── Config Compliance Rules └── Azure AD Identity Secure
 
 
-## 🛡️ BLUE TEAM - Learning Detection & Response
+## 🛡️ DEFENSIVE SECURITY - Learning Detection & Response
 Core Fundamentals (Study Focus):
 ├── Windows Event Logs (Security 4624/4672)
 ├── Sysmon Logging (Process Creation)
@@ -60,5 +60,6 @@ BLUE TEAM LEARNING (📚 Active):
 <i>Full-Spectrum Cybersecurity Engineer | Attack | Defend | Hunt | Respond</i>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vatsan404&theme=dracula)](https://github.com/vatsan404)
+[![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=vatsan404&theme=dracula)](https://github.com/vatsan404)
+
 
