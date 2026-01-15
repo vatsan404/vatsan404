@@ -3,8 +3,6 @@
 # 🔴🛡️☁️ Srivatsan V  
 **M.S. Cybersecurity | Red Blue Purple Team | Cloud Security Engineer**
 
-[![vatsan404 GitHub Stats](https://github-readme-stats.vercel.app/api?username=vatsan404&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/vatsan404)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsan404&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/vatsan404)
 
 </div>
 
@@ -62,5 +60,5 @@ BLUE TEAM LEARNING (📚 Active):
 <i>Full-Spectrum Cybersecurity Engineer | Attack | Defend | Hunt | Respond</i>
 </div>
 
-<div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vatsan404&theme=dark)](https://github.com/vatsan404)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vatsan404&theme=dracula)](https://github.com/vatsan404)
+
