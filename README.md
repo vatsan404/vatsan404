@@ -62,6 +62,10 @@ BLUE TEAM LEARNING (📚 Active):
 
 <div align="center">
 
-[![View Streak →](https://github-readme-streak-stats.herokuapp.com/?user=vatsan404&theme=dracula)](https://github.com/vatsan404)
+**Active Lab:** Multi-forest AD + detection rules
+
+![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=vatsan404&theme=dracula&hide_border=true)
+
+*Red Team → Purple Team Engineer*
 
 </div>
