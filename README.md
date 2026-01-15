@@ -62,6 +62,4 @@ BLUE TEAM LEARNING (📚 Active):
 <i>Full-Spectrum Cybersecurity Engineer | Attack | Defend | Hunt | Respond</i>
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsan404&theme=dracula" alt="Streak"/>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vatsan404&theme=dark)](https://github.com/vatsan404)
