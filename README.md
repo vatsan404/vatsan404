@@ -62,10 +62,6 @@ BLUE TEAM LEARNING (📚 Active):
 
 <div align="center">
 
-
-
 [![View Streak →](https://github-readme-streak-stats.herokuapp.com/?user=vatsan404&theme=dracula)](https://github.com/vatsan404)
-
-
 
 </div>
