@@ -195,7 +195,7 @@ class Srivatsan:
 
 | Certificate | Issuer | Status |
 |:------------|:-------|:-------|
-| 🔴 CRTA — Certified Red Team Analyst | CyberWarFare Labs | 🔄 In Progress |
+| 🔴 CRTA — Certified Red Team Analyst | CyberWarFare Labs | ✅ Completed |
 | ☁️ AWS Cloud Practitioner | Amazon Web Services | ✅ Completed |
 | 🧠 Ethical Hacking Essentials | Cisco | ✅ Completed |
 | 🌐 Introduction to Networking | Cisco | ✅ Completed |
