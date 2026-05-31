@@ -1,9 +1,7 @@
-<a href="https://github.com/srivatsan-v">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srivatsan%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Offensive%20Security%20%7C%20Red%20Teamer%20%7C%20Cloud%20Attacker%20%26%20Defender&descAlignY=62&descSize=16" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srivatsan%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Offensive%20Security%20%7C%20Red%20Teamer%20%7C%20Cloud%20Attacker%20%26%20Defender&descAlignY=62&descSize=16" />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=srivatsan-v&style=flat-square&color=70A5FD&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=vatsan404&style=flat-square&color=70A5FD&label=PROFILE+VIEWS" />
   &nbsp;
   <img src="https://img.shields.io/badge/TryHackMe-Top%201%25-BF91F3?style=flat-square&logo=tryhackme&logoColor=white" />
   &nbsp;
@@ -98,12 +96,12 @@ class Srivatsan:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/srivatsan-v">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=srivatsan-v&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  <a href="https://github.com/vatsan404">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=vatsan404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
   </a>
   &nbsp;
-  <a href="https://github.com/srivatsan-v">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsan-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  <a href="https://github.com/vatsan404">
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsan404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
   </a>
 </div>
 
@@ -112,7 +110,7 @@ class Srivatsan:
 ## 🔥 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=srivatsan-v&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=vatsan404&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 ---
@@ -120,7 +118,7 @@ class Srivatsan:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=srivatsan-v&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vatsan404&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
@@ -128,7 +126,7 @@ class Srivatsan:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srivatsan-v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vatsan404&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
 
 ---
@@ -167,8 +165,8 @@ class Srivatsan:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [☁️ **Cloud Breach Simulation & Defense Automation (CBSDAS)**](https://github.com/srivatsan-v) | AWS CloudTrail · GuardDuty · Lambda · SNS · EC2 · S3 | Designed end-to-end AWS attack-defense simulation replicating real-world attack chains. Automated incident response using Lambda + SNS on GuardDuty alerts. |
-| [🩸 **ShadowRecon ADX**](https://github.com/srivatsan-v) | BloodHound · Mimikatz · Kerberoasting · PowerShell · Windows Event Logs | Simulated full Active Directory attack paths: Kerberoasting → privilege escalation → lateral movement. Built detection layer using Windows Event Logs and PS alerting. |
+| [☁️ **Cloud Breach Simulation & Defense Automation (CBSDAS)**](https://github.com/vatsan404) | AWS CloudTrail · GuardDuty · Lambda · SNS · EC2 · S3 | Designed end-to-end AWS attack-defense simulation replicating real-world attack chains. Automated incident response using Lambda + SNS on GuardDuty alerts. |
+| [🩸 **ShadowRecon ADX**](https://github.com/vatsan404) | BloodHound · Mimikatz · Kerberoasting · PowerShell · Windows Event Logs | Simulated full Active Directory attack paths: Kerberoasting → privilege escalation → lateral movement. Built detection layer using Windows Event Logs and PS alerting. |
 
 </div>
 
