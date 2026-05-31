@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/TryHackMe-Top%201%25-BF91F3?style=flat-square&logo=tryhackme&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-70A5FD?style=flat-square&logo=hackthebox&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-vatsan404-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </div>
 
 <br/>
@@ -16,7 +18,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> About Me
+## 🧑‍💻 About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -71,6 +73,7 @@ class Srivatsan:
 ![S3](https://img.shields.io/badge/S3-70A5FD?style=flat-square&logo=amazons3&logoColor=white)
 ![VPC](https://img.shields.io/badge/VPC-BF91F3?style=flat-square&logo=amazonaws&logoColor=white)
 ![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **SIEM & Monitoring**
 
@@ -89,7 +92,6 @@ class Srivatsan:
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-BF91F3?style=flat-square&logo=cisco&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-38BDAE?style=flat-square&logo=cloudflare&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-70A5FD?style=flat-square&logo=wireshark&logoColor=white)
 
 ---
 
@@ -137,9 +139,9 @@ class Srivatsan:
   <summary><strong>🛡️ SecureSphere Foundation — Security Intern &nbsp;|&nbsp; Jul 2024 – Oct 2024 &nbsp;|&nbsp; Remote</strong></summary>
   <br/>
 
-  > ![Email Security](https://img.shields.io/badge/Email%20Security-70A5FD?style=flat-square) ![Threat Detection](https://img.shields.io/badge/Threat%20Detection-BF91F3?style=flat-square) ![IOC Analysis](https://img.shields.io/badge/IOC%20Analysis-38BDAE?style=flat-square) ![DMARC](https://img.shields.io/badge/SPF%2FDKIM%2FDMARC-C9D1D9?style=flat-square)
+  > ![Email Security](https://img.shields.io/badge/Email%20Security-70A5FD?style=flat-square) ![Threat Detection](https://img.shields.io/badge/Threat%20Detection-BF91F3?style=flat-square) ![IOC Analysis](https://img.shields.io/badge/IOC%20Analysis-38BDAE?style=flat-square) ![SPF/DKIM/DMARC](https://img.shields.io/badge/SPF%2FDKIM%2FDMARC-C9D1D9?style=flat-square)
 
-  - 📧 Analyzed **10+ phishing emails**, extracting Indicators of Compromise (IOCs) to improve organizational threat detection pipelines and email security rules
+  - 📧 Analyzed **10+ phishing emails**, extracting Indicators of Compromise (IOCs) to improve threat detection pipelines and email security rules
   - 🔐 Configured **SPF, DKIM, and DMARC** DNS records, hardening defenses against email spoofing and domain impersonation attacks
   - 🔍 Documented phishing TTPs and contributed to updated incident response playbooks for the security team
 
@@ -149,7 +151,7 @@ class Srivatsan:
   <summary><strong>🔴 Cyber & Forensics Security Solutions (CFSS) — Cybersecurity Intern &nbsp;|&nbsp; Jun 2024 – Jul 2024 &nbsp;|&nbsp; Chennai, India</strong></summary>
   <br/>
 
-  > ![Nmap](https://img.shields.io/badge/Nmap-70A5FD?style=flat-square) ![Metasploit](https://img.shields.io/badge/Metasploit-BF91F3?style=flat-square) ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-38BDAE?style=flat-square) ![Vulnerability Assessment](https://img.shields.io/badge/Vuln%20Assessment-C9D1D9?style=flat-square)
+  > ![Nmap](https://img.shields.io/badge/Nmap-70A5FD?style=flat-square) ![Metasploit](https://img.shields.io/badge/Metasploit-BF91F3?style=flat-square) ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-38BDAE?style=flat-square) ![Vuln Assessment](https://img.shields.io/badge/Vuln%20Assessment-C9D1D9?style=flat-square)
 
   - 🌐 Conducted **network and service enumeration** using Nmap, identifying exposed ports and misconfigured services across target systems
   - 💥 Exploited **5+ assigned vulnerabilities** using Metasploit, demonstrating real-world risk impact to support remediation prioritization
@@ -165,8 +167,12 @@ class Srivatsan:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [☁️ **Cloud Breach Simulation & Defense Automation (CBSDAS)**](https://github.com/vatsan404) | AWS CloudTrail · GuardDuty · Lambda · SNS · EC2 · S3 | Designed end-to-end AWS attack-defense simulation replicating real-world attack chains. Automated incident response using Lambda + SNS on GuardDuty alerts. |
-| [🩸 **ShadowRecon ADX**](https://github.com/vatsan404) | BloodHound · Mimikatz · Kerberoasting · PowerShell · Windows Event Logs | Simulated full Active Directory attack paths: Kerberoasting → privilege escalation → lateral movement. Built detection layer using Windows Event Logs and PS alerting. |
+| [☁️ **Skyshield — Cloud Breach Simulation & Defense**](https://github.com/vatsan404/Skyshield) | Python · AWS CloudTrail · GuardDuty · Lambda · SNS · EC2 · S3 | End-to-end AWS attack–defense simulation replicating real-world breach chains. Automated incident response using Lambda + SNS triggered by GuardDuty alerts. |
+| [🖥️ **C2Framework**](https://github.com/vatsan404/C2Framework) | Python · Bash · Networking | Custom Command & Control framework built for red team lab scenarios. Supports remote agent tasking, payload delivery, and communication over covert channels. |
+| [☁️ **KodeKloud AWS Challenges**](https://github.com/vatsan404/KodeKloud_AWS_Challenges) | AWS · IAM · EC2 · S3 · VPC · CloudTrail | Hands-on AWS security challenge solutions covering IAM misconfigurations, enumeration, privilege escalation, and cloud hardening techniques. |
+| [🔷 **KodeKloud Azure Challenges**](https://github.com/vatsan404/KodeKloud_Azure_Challenges) | Azure · IAM · RBAC · Entra ID | Azure security challenge walkthroughs covering identity, access control, and cloud misconfigurations in Microsoft Azure environments. |
+| [🔑 **AWS Secrets Manager CLI Commands**](https://github.com/vatsan404/AWS-SECRETSMANAGER-CLI-COMMANDS) | AWS CLI · Secrets Manager · Bash | Reference repo of AWS Secrets Manager CLI commands for red team enumeration, secret extraction, and privilege escalation in cloud attack scenarios. |
+| [🔍 **AWS IAM Enumeration CLI Commands**](https://github.com/vatsan404/AWS-IAM-ENUMERATION-CLI-COMMANDS) | AWS CLI · IAM · Bash | Curated collection of AWS IAM enumeration commands used for cloud pentesting — listing users, roles, policies, and privilege escalation paths. |
 
 </div>
 
@@ -178,7 +184,7 @@ class Srivatsan:
 
 | 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
-| 🥇 | **Top 1% on TryHackMe** | Ranked in the global top 1% — offensive security labs, CTFs, and vulnerability assessment challenges |
+| 🥇 | **Top 1% on TryHackMe** | Ranked in the global top 1% — offensive labs, CTFs, and vulnerability assessment |
 | 🎯 | **Industrial Intrusion CTF** | Placed **27 / 5,959** participants |
 | 🔥 | **Hackfinity CTF** | Ranked **186 / 26,523** participants |
 | 🍯 | **Honeypot CTF** | Secured **200 / 4,000** participants |
