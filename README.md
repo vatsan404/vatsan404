@@ -1,4 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:bf91f3&height=180&section=header&text=Srivatsan%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Offensive%20Security%20%7C%20Red%20Teamer%20%7C%20Cloud%20Attacker%20%26%20Defender&descAlignY=62&descSize=16" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&height=80&lines=Hi+there%2C+I%27m+Srivatsan+V+%F0%9F%91%8B" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&width=750&lines=%F0%9F%94%90+Offensive+Security+%7C+Red+Team+Enthusiast;%F0%9F%A7%A0+Active+Directory+Attacks+%26+Defenses;%E2%98%81%EF%B8%8F+Cloud+Security+%7C+AWS+Attack+%26+Defense;%F0%9F%8F%86+Top+1%25+on+TryHackMe+%7C+CTF+Competitor" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vatsan404&style=flat-square&color=70A5FD&label=PROFILE+VIEWS" />
@@ -7,13 +15,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-70A5FD?style=flat-square&logo=hackthebox&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LinkedIn-srivatsan--v-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%94%90+Offensive+Security+%7C+Red+Team+Enthusiast;%F0%9F%A7%A0+Active+Directory+Attacks+%26+Defenses;%E2%98%81%EF%B8%8F+Cloud+Security+%7C+AWS+Attack+%26+Defense;%F0%9F%8F%86+Top+1%25+on+TryHackMe+%7C+CTF+Competitor" />
 </div>
 
 ---
@@ -98,9 +99,9 @@ class Srivatsan:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vatsan404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vatsan404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&rank_icon=github&cache_seconds=86400" />
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsan404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsan404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" />
 </div>
 
 ---
@@ -218,4 +219,6 @@ class Srivatsan:
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:0d1117&height=120&section=footer&animation=twinkling" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=38BDAE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%94%90+%7C+Hack.+Detect.+Defend.+Repeat." />
+</div>
