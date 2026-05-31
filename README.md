@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srivatsan%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Offensive%20Security%20%7C%20Red%20Teamer%20%7C%20Cloud%20Attacker%20%26%20Defender&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:bf91f3&height=180&section=header&text=Srivatsan%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Offensive%20Security%20%7C%20Red%20Teamer%20%7C%20Cloud%20Attacker%20%26%20Defender&descAlignY=62&descSize=16" />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vatsan404&style=flat-square&color=70A5FD&label=PROFILE+VIEWS" />
@@ -7,7 +7,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-70A5FD?style=flat-square&logo=hackthebox&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LinkedIn-vatsan404-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-srivatsan--v-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </div>
 
 <br/>
@@ -98,13 +98,9 @@ class Srivatsan:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/vatsan404">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=vatsan404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vatsan404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" />
   &nbsp;
-  <a href="https://github.com/vatsan404">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsan404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsan404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" />
 </div>
 
 ---
@@ -222,6 +218,4 @@ class Srivatsan:
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:0d1117&height=120&section=footer&animation=twinkling" />
