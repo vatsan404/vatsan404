@@ -99,9 +99,21 @@ class Srivatsan:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vatsan404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&rank_icon=github&cache_seconds=86400" />
+
+| Stat | Value |
+|:-----|:------|
+| 🏠 Public Repos | **7** |
+| 🔥 Current Streak | **1 day** (Jan 3, 2024 – Present) |
+| 📅 Total Contributions | **49** |
+| 🏆 Longest Streak | **3 days** (Jan 15 – Jan 17) |
+| 🌐 Profile Views | ![Views](https://komarev.com/ghpvc/?username=vatsan404&style=flat-square&color=70A5FD) |
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsan404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" />
+  <img src="https://img.shields.io/badge/Bash-Secondary%20Language-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
 ---
@@ -196,7 +208,7 @@ class Srivatsan:
 
 | Certificate | Issuer | Status |
 |:------------|:-------|:-------|
-| 🔴 CRTA — Certified Red Team Analyst | CyberWarFare Labs | ✅ Completed |
+| 🔴 CRTA — Certified Red Team Analyst | CyberWarFare Labs | ✅ Complete |
 | ☁️ AWS Cloud Practitioner | Amazon Web Services | ✅ Completed |
 | 🧠 Ethical Hacking Essentials | Cisco | ✅ Completed |
 | 🌐 Introduction to Networking | Cisco | ✅ Completed |
@@ -220,5 +232,5 @@ class Srivatsan:
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=38BDAE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%94%90+%7C+Hack.+Detect.+Defend.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=2000&color=70A5FD&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%94%90+Hack.+Detect.+Defend.+Repeat.+%7C+Thanks+for+visiting!" />
 </div>
